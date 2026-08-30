@@ -1,0 +1,11 @@
+{
+  "name": "Maintenance Register",
+  "short_name": "Maintenance",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#E3E6E4",
+  "theme_color": "#1C2326",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
